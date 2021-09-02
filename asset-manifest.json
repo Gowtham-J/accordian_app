@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/accordian_app/static/css/main.120e6afb.chunk.css",
+    "main.js": "/accordian_app/static/js/main.8e56eb80.chunk.js",
+    "main.js.map": "/accordian_app/static/js/main.8e56eb80.chunk.js.map",
+    "runtime-main.js": "/accordian_app/static/js/runtime-main.8f3ff101.js",
+    "runtime-main.js.map": "/accordian_app/static/js/runtime-main.8f3ff101.js.map",
+    "static/js/2.441362a6.chunk.js": "/accordian_app/static/js/2.441362a6.chunk.js",
+    "static/js/2.441362a6.chunk.js.map": "/accordian_app/static/js/2.441362a6.chunk.js.map",
+    "static/js/3.c9e29566.chunk.js": "/accordian_app/static/js/3.c9e29566.chunk.js",
+    "static/js/3.c9e29566.chunk.js.map": "/accordian_app/static/js/3.c9e29566.chunk.js.map",
+    "index.html": "/accordian_app/index.html",
+    "static/css/main.120e6afb.chunk.css.map": "/accordian_app/static/css/main.120e6afb.chunk.css.map",
+    "static/js/2.441362a6.chunk.js.LICENSE.txt": "/accordian_app/static/js/2.441362a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f3ff101.js",
+    "static/js/2.441362a6.chunk.js",
+    "static/css/main.120e6afb.chunk.css",
+    "static/js/main.8e56eb80.chunk.js"
+  ]
+}
